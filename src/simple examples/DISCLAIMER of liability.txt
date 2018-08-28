@@ -1,0 +1,2 @@
+Payout methods can not be called in test mode.
+Therefore, if you want to test them, you should understand the risks of possible loss of funds on your payment account.
